@@ -1,5 +1,1 @@
-- 👋 Hi, I’m KGM.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact via Discord: kgm#1775
+## hey I have a readme on my profile, am I cool now?
