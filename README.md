@@ -10,7 +10,7 @@ I'm an entrepreneur and self-taught coder with a passion for building innovative
 🛠️ **Skills:**
 - **Languages:** Java, Python, HTML, CSS, JS, Visual Studio .NET
 - **Frameworks/Libraries:** [List of frameworks and libraries you have experience with]
-- **Tools:** SingleStore (database engine/solution), MySQL, SQLite, MongoDB (database engines/solutions)
+- **Tools:** SingleStore, MySQL, SQLite, MongoDB (database engines/solutions)
 
 📫 **Contact Me:**
 - kgm#0001 (Discord handle)
