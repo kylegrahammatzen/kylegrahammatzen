@@ -10,3 +10,5 @@
 - An enthusiastic self-taught software engineer
 - Pursuing web development in my free time
 - Check out my personal websites: https://clan.dad/ & https://kylegrahammatzen.com/
+
+<br>
