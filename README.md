@@ -1,16 +1,18 @@
-### Hi there, I'm KGM 👋
+<h1 align="center"><b>Hi there, I'm Kyle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm an entrepreneur and self-taught coder with a passion for building innovative solutions and solving complex problems with code.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Inter&duration=4500&pause=500&color=38BDF8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Entrepreneur+;Software+Engineer;Computer+Science+Student"></a>
+</p>
 
-🌱 **I’m currently learning:**
-- Mathematics
-- Advanced HTML5 and CSS3 techniques
-- JavaScript frameworks such as React and Vue
+<br>
 
-🛠️ **Skills:**
-- **Languages:** Java, Python, HTML, CSS, JS, Visual Studio .NET
-- **Tools:** SingleStore, MySQL, SQLite, MongoDB (database engines/solutions)
 
-📫 **Contact Me:**
-- kgm#0001 (Discord handle)
-- [LinkedIn](https://www.linkedin.com/in/kylegrahammatzen/)
+## **About me**
+
+<br>
+
+- An enthusiastic self-taught software engineer
+- Pursuing web development in my free time
+- Check out my personal websites: https://clan.dad/ & https://kylegrahammatzen.com/
+
+<br><br>
