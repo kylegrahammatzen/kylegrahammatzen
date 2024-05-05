@@ -9,6 +9,6 @@
 
 - An enthusiastic self-taught software engineer
 - Pursuing web development in my free time
-- Check out my personal site: https://kylegrahammatzen.com/
+- Check out my personal site: https://kylegm.com/
 
 <br>
